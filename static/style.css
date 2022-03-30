@@ -1,0 +1,108 @@
+#divv {
+    float:left;
+    background:white;
+    width:44%;
+    height:100%;
+    margin:3%;
+}
+.div{
+    float:left;
+    width:44%;
+
+    margin:3%;
+    background:pink;
+}
+
+#title {
+    color:purple;
+    text-align:center;
+    background:white;
+}
+
+body {
+    font-family: 'Shadows Into Light', cursive;
+    background:url('straw.jpg');
+    margin:0px;
+    background-size:cover;
+
+}
+#back {
+    position: absolute;
+    z-index: -5;
+    width: 100%;
+    height: 100%;
+    background: white;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:0.4;
+}
+
+#title {
+    color:purple;
+    height:100%;
+    margin:0;
+}
+
+#textdiv{
+    float:left;
+    width:96%;
+    height:100%;
+    background:white;
+    margin:2%;
+    margin-bottom:0%;
+    margin-top:1%;
+
+
+    text-align:center;
+}
+
+
+
+.item{
+    background:white;
+    float:left;
+    width:100%;
+    height:100%;
+
+    margin-top:0%;
+    text-align:center;
+    transition-duration: 500ms;
+}
+.item:hover{
+    background:#FFDCF4;
+}
+a {
+  text-decoration: none;
+  color:black;
+}
+
+.mainitem{
+
+     background:white;
+     float:left;
+
+    width:100%;
+    height:100%;
+
+    margin-top:0%;
+    text-align:center;
+
+}
+#ingr{
+      float:left;
+      width:20%;
+}
+#img{
+    float:left;
+    width=40%;
+    height=20%
+}
+#items{
+    background:white;
+}
+#log{
+    float:right;
+    margin-top:1%;
+    margin-right:5%;
+}
